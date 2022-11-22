@@ -1,0 +1,44 @@
+ARDUINO 1
+pino x - sensor y
+A0 - Sensor de fumo
+13 - LCD
+12 - LCD
+10 - temperatura e humidade (DHT)  
+9 - fan
+8 - Sensor de movimento (pir)
+7 - LCD
+6 - LCD
+5 - LCD
+4 - LCD
+3 - sensor de impressão digital
+2 - sensor de impressão digital
+1 - Serie para o outro arduino
+0 - Serie para o outro arduino
+
+
+
+ARDUINO 2
+0 - Serie para o outro arduino
+1 - Serie para o outro arduino
+2 - Buzzer ou LED Laranja
+3 - 3 luzes brancas da sala 
+4 - LED Semaforo bancada
+5 - todos LED Jardim
+6 - Led branco do quarto
+7 - LED Semaforo da bancada
+8 - LED Semaforo da bancada
+9 - Button
+10 - Servo motor porta esquerda
+11 - Servo motor porta direita 
+12 - Button
+13 - Led Frente 
+A4 - rr
+A3 - rr
+A2 - Sensor de peso
+A1 - rr 
+A0 - Sensor de luz
+
+
+
+
+rr = inutil
